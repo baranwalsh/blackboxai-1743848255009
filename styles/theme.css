@@ -1,0 +1,15 @@
+:root {
+  --coffee-primary: #6F4E37;
+  --coffee-secondary: #C4A484;
+  --coffee-accent: #8B5A2B;
+  --coffee-light: #F5F5DC;
+  --coffee-dark: #3E2723;
+}
+
+.coffee-theme {
+  --color-primary: var(--coffee-primary);
+  --color-secondary: var(--coffee-secondary);
+  --color-accent: var(--coffee-accent);
+  --color-light: var(--coffee-light);
+  --color-dark: var(--coffee-dark);
+}
